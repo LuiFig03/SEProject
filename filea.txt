@@ -1,0 +1,9 @@
+ Volume in drive C is OS
+ Volume Serial Number is B653-99EC
+
+ Directory of C:\SEProject
+
+04/04/2024  04:56 PM    <DIR>          .
+04/04/2024  04:56 PM                 0 filea.txt
+               1 File(s)              0 bytes
+               1 Dir(s)  30,405,984,256 bytes free
